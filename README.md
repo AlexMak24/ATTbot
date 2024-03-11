@@ -1,2 +1,2 @@
 # siBot
-СОСИ ЖОПУ
+Smart investing Bot
